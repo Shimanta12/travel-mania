@@ -45,7 +45,7 @@ const PlaceBooking = () => {
 
 
     return (
-        <Container className="my-5 text-start">
+        <Container style={{ marginTop: '90px' }} className="mb-5 text-start">
             <h1 className="cursive-text text-center mb-5">Tour Details</h1>
             <Row md={2} xs={1} className="g-4">
                 <Col className="p-3">
