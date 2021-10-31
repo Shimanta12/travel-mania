@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Sappa Trekking Tours -2 Days and 1 Night Stay at Homestay ",
+        "image": "https://i.ibb.co/wsK2nPn/services1.png",
+        "description": "Trekking Tour Sapa is comprised of a local team of expert guides representative of the ethnic minority group of the Black H’mong tribe based in the beautiful northern mountainous highlands of Sapa, Vietnam. We are so proud to share our vibrant culture, unique ecology, and stunning landscapes so that we may preserve it for generations to come. We use our local knowledge to create personalized hiking, trekking and motorbike tours for those wanting to discover the best and most beautiful areas of Sapa. We were born and raised in this region which helps us to show you places that many our companies may not be able to provide.",
+        "location": "Sapa, Vietnam",
+        "rating": 5,
+        "duration": "2 days",
+        "groupSize": "4 People",
+        "price": "$450"
+    },
+    {
+        "id": 2,
+        "name": "Half-Day Chiang Mai City And Temples Tour ",
+        "image": "https://i.ibb.co/5Kwfdrh/services2.png",
+        "description": "Chiang Mai (meaning 'New City' in Thai) was founded in 1296 as the new capital of Lan Na, succeeding the former capital, Chiang Rai.[2]: 208–209  The city's location on the Ping River (a major tributary of the Chao Phraya River) and its proximity to major trading routes contributed to its historic importance.[3][4]Chiang Mai is a city in mountainous northern Thailand. Founded in 1296, it was capital of the independent Lanna Kingdom until 1558. Its Old City area still retains vestiges of walls and moats from its history as a cultural and religious center. It’s also home to hundreds of elaborate Buddhist temples, including 14th-century Wat Phra Singh and 15th-century Wat Chedi Luang, adorned with carved serpents. ",
+        "location": "Chiang Mai, Thiland",
+        "rating": 4.5,
+        "duration": "6 days",
+        "groupSize": "6 People",
+        "price": "$590"
+    },
+    {
+        "id": 3,
+        "name": "Tourism Paradise Island Koh Rong Cambodia 2 Days 1 Night",
+        "image": "https://i.ibb.co/Fg6ZGMt/services3.png",
+        "description": "Koh Rong is an island in the Sihanoukville Province of Cambodia. It’s known for its sandy coves and coral reefs, like those around Koh Rong Pier. Inland, the dense jungle terrain is dotted with coconut palms and waterfalls. In the south are Jewelorchids, a small zoo home to butterflies, snakes, and birds, and lively Police Beach, a party spot. High Point Rope Park has suspension bridges, rope walks and zip lines.Koh Rong Sanloem lies within Sihanoukville province's Mittakpheap district in Commune 5 (Sangkat Koh Rong). Alongside its sister-island Koh Rong it has developed into a popular holiday destination for individual travelers. With respect to the island's very tiny population, by 2014 the tourism sector became the core of the economy.",
+        "location": "Mittakphep, Cambodia",
+        "rating": 4,
+        "duration": "6 days",
+        "groupSize": "50 People",
+        "price": "$650"
+    },
+    {
+        "id": 4,
+        "name": "3 Days and 1 Night in Hoi An Old Town -Vietnam Tour",
+        "image": "https://i.ibb.co/7QnN58K/services4.png",
+        "description": "Between the seventh and 10th centuries, the Cham (people of Champa) controlled the strategic spice trade and with this came tremendous wealth.[citation needed]The early history of Hội An is that of the Cham. These Austronesian-speaking Malayo-Polynesian peoples created the Champa Empire which occupied much of what is now central and lower Vietnam, from Huế to beyond Nha Trang.[citation needed] Various linguistic connections between Cham and the related Jarai language and the Austronesian languages of Indonesia (particularly Acehnese), Malaysia, and Hainan has been documented. In the early years, Mỹ Sơn was the spiritual capital, Trà Kiệu was the political capital and Hội An was the commercial capital of the Champa Empire - later, by the 14th century.",
+        "location": "Hoi, Vietnam",
+        "rating": 5,
+        "duration": "3 days",
+        "groupSize": "10 People",
+        "price": "$350"
+    },
+    {
+        "id": 5,
+        "name": "Bali Full day Traditional Vilage Sightseeing Trip",
+        "image": "https://i.ibb.co/DVf70RW/services5.png",
+        "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan.Bali is the only Hindu-majority province in Muslim-majority Indonesia, with 86.9% of the population adhering to Balinese Hinduism.[3] It is renowned for its highly developed arts, including traditional and modern dance, sculpture, painting, leather, metalworking, and music. The Indonesian International Film Festival is held every year in Bali.Other international events held in Bali include the Miss World 2013 and 2018 Annual Meetings of the International Monetary Fund and the World Bank Group.",
+        "location": "Bali, Indonesia",
+        "rating": 4.5,
+        "duration": "10 days",
+        "groupSize": "10 People",
+        "price": "$750"
+    },
+    {
+        "id": 6,
+        "name": "Neverland Phi Phi Boat Tour -Thailand",
+        "image": "https://i.ibb.co/Rjc1t5J/services6.png",
+        "description": "speed boat boat, which has a bar, with a cooler box for your own drinks (booze) We meet at 13:00 at tree house bar koh phi phi island for registration and depart at 1pm sharp. We return roughly 7:30pm Throughout the journey, our western speaking tourguide will explain and show you the best places Phi phi islands have to offer! We have a lot of fun in the boat, meeting with monkeys, snorkeling, possibility to see sharks and turtles, sunset, planktons. Program : -Monkey beach -Maya bay -Viking cave -Pileh Lagoon -Snake Cave -Coral city -Shark point -Snorkeling wit possibilty to see turtle and shark - Loh Sahma Included : -English speking tour guide -Snorkeling -pictures -Water, -Sunset -Dinner + open bar at tree house 9pm",
+        "location": "Phi Phi, Thiland",
+        "rating": 4,
+        "duration": "1 days",
+        "groupSize": "6 People",
+        "price": "$250"
+    }
+]

@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.cursive-text{
+  font-family: 'Pacifico', cursive;
+}
+.banner-heading{
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+}
+.highlighted-heading{
+  color: #9CD644;
+}
+.service-btn{
+  background: none;
+  border:2px solid #9CD644;
+  font-weight: bolder;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.service-btn:hover{
+background-color: #9CD644;
+color: white;
+}
+.custom-btn{
+  background-color: #9CD644;
+  color: white;
+  border: none;
+  font-weight: bolder;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.fa-google {
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+.fa-instagram{
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}

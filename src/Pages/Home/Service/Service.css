@@ -1,0 +1,11 @@
+.service-card{
+    box-shadow: 2px 5px 10px gray;
+}
+
+.service-card img{
+    transition: 0.5s;
+}
+
+.service-card img:hover{
+    transform: scale(1.05);
+}
