@@ -1,9 +1,10 @@
 ## TravelMania
 
-## Description
- Miracle clinic consists high level of equipments and doctors. There are no queues and cheap prices. There are interesting complex program for examination of the whole organism. We perform our work very accurately and qualitatively.
-
 ## Live Website Link [TravelMania](https://travel-mania-a0ac2.web.app/).
+
+
+## Description
+ TravelMania is a Site for booking different tours all around the world. Client's safety is our top priority. Since 2016, we’ve helped more than 200,000 people of all ages enjoy the best outdoor experience.
 
 ## Functionality used-
 1. This site is a single page application and has a total of six routes(Home, My Booking, Manage All Booking, Add Tour, SignIn).
